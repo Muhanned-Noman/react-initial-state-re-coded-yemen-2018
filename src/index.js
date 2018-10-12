@@ -7,3 +7,10 @@ ReactDOM.render(
   <ToggleButton />,
   document.getElementById('root')
 );
+
+import Address from './components/Address';
+ 
+ReactDOM.render(
+  <Address />,
+  document.getElementById('root')
+);
